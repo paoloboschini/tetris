@@ -3,6 +3,9 @@ Tetris
 
 Tetris in Smalltalk.
 
+![alt tag](https://raw.github.com/paoloboschini/tetris/master/screen1.png)
+![alt tag](https://raw.github.com/paoloboschini/tetris/master/screen2.png)
+
 Installation
 ======
 
