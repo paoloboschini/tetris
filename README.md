@@ -29,3 +29,13 @@ TODO
 ======
 
 Refactor!
+
+MISC
+======
+
+My favourite line , reflection! :)
+
+```smalltalk
+createSprite
+	^ (Sprite subclasses at: (Random new nextInt: Sprite subclasses size)) new position: self position + (150 @ -50)
+```
