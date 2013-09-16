@@ -33,7 +33,7 @@ Refactor!
 MISC
 ======
 
-My favourite line , reflection! :)
+My favourite line, reflection! :)
 
 ```smalltalk
 createSprite
